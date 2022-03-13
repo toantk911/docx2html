@@ -1,5 +1,5 @@
 {
-  "name": "docx2html",
+  "name": "@toantk911/docx2html",
   "description": "a javascript docx converter to html based on docx4js",
   "version": "1.3.3",
   "author": {
